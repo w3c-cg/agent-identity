@@ -1,13 +1,13 @@
-
 # Agent Identity Registry Protocol — Community Group
 
 This is the GitHub repository of the [W3C Agent Identity Registry Protocol Community Group](https://www.w3.org/community/agent-identity/).
 
 The group develops shared understanding, use cases, requirements, and community specifications for cross-organizational AI agent identity, authorization, and trust infrastructure. Its work takes inspiration from the [ARIA Protocol](https://aria.bar) (Agent Registry for Identity & Authorization), an open protocol stewarded by [TrustLayer Foundation A.C.](https://trustlayer.foundation)
 
-Note: 'ARIA' here refers to the Agent Registry for Identity & Authorization protocol. It is unrelated to W3C WAI-ARIA (Accessible Rich Internet Applications).
+> Note: 'ARIA' here refers to the Agent Registry for Identity & Authorization protocol. It is unrelated to W3C WAI-ARIA (Accessible Rich Internet Applications).
 
 → **[Read the Charter](./CHARTER.md)**
+→ **[Governance & TrustLayer Foundation](./GOVERNANCE.md)**
 
 ---
 
@@ -27,5 +27,6 @@ This repo is the entry point for the group's work. Each specification will have 
 
 | File / Folder | Contents |
 |---|---|
-| `charter.md` | Community Group Charter |
+| `CHARTER.md` | Community Group Charter |
+| `GOVERNANCE.md` | TrustLayer Foundation governance and links to public documents |
 | `meetings/` | Agendas and minutes (added as meetings commence) |
