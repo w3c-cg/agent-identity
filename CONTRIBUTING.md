@@ -21,3 +21,10 @@ If you added a contributor by mistake, you can remove them in a comment with:
 
 If you are making a pull request on behalf of someone else but you had no part in designing the
 feature, you can remove yourself with the above syntax.
+
+# Contributing
+
+By contributing, you agree that your contributions are governed by the W3C CLA and the terms described in [LICENSE.md](./LICENSE.md).
+
+Note: Contributing to this repository does not constitute a direct contribution to the ARIA Protocol specification. ARIA Protocol contributions are 
+governed separately by TrustLayer Foundation's IPR Policy and Developer Certificate of Origin (DCO). See [aria.bar](https://aria.bar) for details.
