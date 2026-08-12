@@ -10,7 +10,7 @@ _Based on the [W3C Community Group Charter Template](https://w3c.github.io/cg-ch
 
 | Field | Value |
 |---|---|
-| This Charter | https://github.com/w3c-cg/agent-identity/blob/main/charter.md |
+| This Charter | https://github.com/w3c-cg/agent-identity/blob/main/CHARTER.md |
 | Previous Charter | |
 | Mailing List | public-agent-identity@w3.org |
 | GitHub Repository | https://github.com/w3c-cg/agent-identity |
