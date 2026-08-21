@@ -2,6 +2,13 @@
 
 This folder contains agendas and minutes for all official meetings of the Agent Identity Registry Protocol Community Group.
 
+## Schedule
+
+The group meets **every two weeks on Tuesdays at 9:00 AM Central Time** (14:00 UTC).
+
+→ [Join on Google Meet](https://meet.google.com/rmm-tksd-wnp)
+→ [W3C Group Calendar](https://www.w3.org/groups/cg/agent-identity/calendar/)
+
 ## Structure
 
 ```
