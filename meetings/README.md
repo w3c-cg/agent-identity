@@ -4,7 +4,7 @@ This folder contains agendas and minutes for all official meetings of the Agent 
 
 ## Schedule
 
-The group meets **every two weeks on Tuesdays at 09:00 Mexico City (15:00 UTC)** (14:00 UTC).
+The group meets **every two weeks on Tuesdays at 09:00 Mexico City (15:00 UTC)**.
 
 Mexico City does not observe daylight saving time, so the UTC time is fixed year-round. Participants elsewhere should expect their local time to shift when their own clocks change.
 
