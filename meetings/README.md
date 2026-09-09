@@ -24,8 +24,8 @@ Agendas are published before each meeting. Minutes are published within ten (10)
 
 ## Templates
 
-- [Agenda template](./templates/agenda-template.md)
-- [Minutes template](./templates/minutes-template.md)
+- [Agenda template](https://github.com/w3c-cg/agent-identity/blob/main/meetings/agenda-template.md)
+- [Minutes template](https://github.com/w3c-cg/agent-identity/blob/main/meetings/minutes-template.md)
 
 ## Mailing List
 
